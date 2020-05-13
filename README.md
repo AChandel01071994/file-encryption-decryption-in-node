@@ -33,3 +33,7 @@ await FileService.Instance.deleteFile(FileService.Instance.bucket.uploads, 'file
 
 ## TODO
 Publish as a npm package
+
+## License
+
+[MIT](LICENSE)
