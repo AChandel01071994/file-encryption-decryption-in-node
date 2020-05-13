@@ -4,9 +4,7 @@ Typescript API to encrypt and decrypt any type of file (using `AES256` encryptio
 ## Installation & Dependencies
 
 ```sh
-npm i zlib
-npm i app-root-path
-npm i uuid
+npm install zlib app-root-path uuid
 ```
 
 ## Usage
