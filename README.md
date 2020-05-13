@@ -1,5 +1,5 @@
 # File Encryption & Decryption in nodejs
-Typescript API to encrypt and decrypt any type of file (using `AES256` encryption) in node js
+Typescript API to encrypt and decrypt any type of file (using `AES256` encryption)
 
 ## Installation & Dependencies
 
