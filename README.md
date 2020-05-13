@@ -10,7 +10,7 @@ npm i uuid
 ```
 
 ## Usage
-Place ts file into you service folder and import the FileService class inside your controller/service to use it
+Place `file-service.ts` file into you service folder and import the FileService class inside your controller/service to use it
 
 ```javascript
 import FileService from './file-service';
