@@ -1,5 +1,10 @@
 # File Encryption & Decryption in nodejs
-Typescript API to encrypt and decrypt any type of file (using `AES256` encryption)
+
+Typescript API to encrypt and decrypt any type of file (using `AES256` encryption) with compression enabled
+
+## Requirements
+
+- node >= 10
 
 ## Installation & Dependencies
 
@@ -31,7 +36,3 @@ await FileService.Instance.deleteFile(FileService.Instance.bucket.uploads, 'file
 
 ## TODO
 Publish as a npm package
-
-## License
-
-[MIT](LICENSE)
